@@ -250,6 +250,9 @@ In this challenge, you will create a multi-agent system that takes the user's re
             "messages": results
         }   
    ```
+
+   ![](Images/Image13.png)
+
 1. Click on the ellipses. Select Terminal and choose New Terminal. 
 
 1. // required commands to be added.//

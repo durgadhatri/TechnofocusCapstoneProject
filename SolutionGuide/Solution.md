@@ -17,6 +17,8 @@ In this challenge, you will create a multi-agent system that takes the user's re
 
 1. Search and Select Open AI. 
 
+   ![](Images/Image1.png)
+
 1. On the Open AI content page, click on + create. 
 
 1. Provide the following details and click on Next (7):
